@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/soundChooser.cs">
+    <Files>
+      <File FileName="Assets/Scripts/soundChooser.cs" Line="15" Column="20" />
+      <File FileName="Assets/Scripts/exteriorDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/playerInterface.cs" Line="52" Column="1" />
+      <File FileName="Assets/Scripts/chimeTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/chimeStartScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/chimeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/level2Startup.cs" Line="11" Column="28" />
+      <File FileName="Assets/OVR/Scripts/OVRManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/OVR/Scripts/Util/OVRPlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/OVR/Scripts/OVRCameraRig.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StereoRigController.cs" Line="1" Column="1" />
+      <File FileName="Assets/OVR/Editor/OVRShimLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets/OVR/Scripts/Util/OVRMainMenu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kmiller/Documents/class documents/N255/FinalProject/SoundGame/Assets/OVR/Scripts/OVRCameraRig.cs" line="276" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets/OVR/Scripts/Util/OVRPlayerController.cs" line="120" offsetX="515" offsetY="1155" expression="OVRManager" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
